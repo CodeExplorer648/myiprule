@@ -2,6 +2,17 @@
   "version": 1,
   "rules": [
     {
+      "domain_keyword": [
+          "lmmnopq.com",
+          "qrssv.com",
+          "abbcdef.com",
+          "kuaikan-cdn",
+          "kuaikan-play",
+          "3445789.com",
+          "snzypic.vip",
+          "pqrt.cc",
+          "defgg.vip"
+      ],
       "ip_cidr": [
         "18.195.82.207/32",
         "90.145.158.66/32",
